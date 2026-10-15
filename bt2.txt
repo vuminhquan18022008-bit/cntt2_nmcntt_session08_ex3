@@ -1,0 +1,11 @@
+Báo cáo phân tích (I/O) : 
+INPUT( Dữ liệu thô hay còn được gọi là plain text) 
+OUTPUT ( hiển thị trình soạn thảo trên stackedit hoặc các giao diện xem trước markdown 
+Source code: 
+Tạo một file .md trên VS code 
+Khối code python ` code`
+Task list kiểm trs tiến độ cài đặt : 
+===kiểm tra môi trường lập trình python===
+- [ ] bước 1
+- [ ] bước 2 
+- [ ] bước 3 
